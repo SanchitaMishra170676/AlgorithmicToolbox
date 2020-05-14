@@ -1,4 +1,4 @@
-# DsAlgo
+# Algorithmic Toolbox
 ### Contains solution of assignment of Algorithmic Toolbox course offered by university of California on coursera
 
 # Week 1 :Programming Challenges
