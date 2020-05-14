@@ -11,7 +11,7 @@
 # Week 3: Greedy Algorithms 
 ## Strategy:
 Greedy algorithms work in stages, a a decision is made that is good at that point, without bothering about the future. This means that some local best is chosen.
-### It assumes that a local good selection makes for a global optimal solution.
+#### It assumes that a local good selection makes for a global optimal solution.
 
 ## Elements:
 * Greedy Choice property
